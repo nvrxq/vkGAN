@@ -13,6 +13,7 @@ python3 generate.py
 
 # Examples 
 **Epochs =  ~ 1500**
+
 <image src="https://github.com/nvrxq/vkGAN/blob/main/result/1.jpg?raw=true">
 
 <image src="https://github.com/nvrxq/vkGAN/blob/main/result/67.png?raw=true">
